@@ -79,6 +79,7 @@ def main():
     ct=input()
     af=input()
     print(exchange(cf, ct, af))
+    test_all()
 
 if __name__ == '__main__':
     main()
